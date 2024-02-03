@@ -1,0 +1,235 @@
+User 1
+LOG-IN: Wed Jun 07 17:42:56 2023
+
+Sales: 79.89
+User 0
+LOG-OUT: Wed Jun 07 17:44:22 2023
+
+
+User 1
+LOG-IN: Wed Jun 07 17:45:45 2023
+
+User 1
+LOG-IN: Wed Jun 07 17:50:17 2023
+
+Sales: 15.79
+LOG-OUT: Wed Jun 07 17:51:05 2023
+
+
+User 1
+LOG-IN: Wed Jun 07 17:54:41 2023
+
+User 1
+LOG-IN: Wed Jun 07 17:58:16 2023
+
+User 1
+LOG-IN: Wed Jun 07 17:59:34 2023
+
+Sales: 1751.48
+LOG-OUT: Wed Jun 07 18:02:16 2023
+
+
+User 1
+LOG-IN: Wed Jun 07 18:02:57 2023
+
+Sales: 1269.77
+LOG-OUT: Wed Jun 07 18:03:25 2023
+
+
+User 1
+LOG-IN: Wed Jun 07 18:04:31 2023
+
+Sales: 1320.66
+LOG-OUT: Wed Jun 07 18:06:45 2023
+
+
+User 1
+LOG-IN: Wed Jun 07 18:09:56 2023
+
+alal	13	143	M
+User 1
+LOG-IN: Wed Jun 07 18:13:36 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:14:30 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:15:33 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:17:24 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:19:18 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:20:02 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:20:52 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:23:02 2023
+
+asdfgh	14	144	M
+Sales: 246.33 LOG-OUT: Wed Jun 07 18:23:46 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:25:23 2023
+papapa	13	145	M
+Sales: 63.54
+LOG-OUT: Wed Jun 07 18:26:22 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:28:27 2023
+User 1
+LOG-IN: Wed Jun 07 18:39:46 2023
+User 1
+LOG-IN: Wed Jun 07 18:40:55 2023
+Sales: 0.00
+LOG-OUT: Wed Jun 07 18:41:28 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:42:12 2023
+User 1
+LOG-IN: Wed Jun 07 18:46:58 2023
+Sales: 0.00
+LOG-OUT: Wed Jun 07 18:47:15 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:48:40 2023
+Sales: 0.00
+LOG-OUT: Wed Jun 07 18:48:43 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:50:55 2023
+Sales: 0.00
+LOG-OUT: Wed Jun 07 18:50:57 2023
+
+User 1
+LOG-IN: Wed Jun 07 18:55:18 2023
+User 1
+LOG-IN: Wed Jun 07 18:56:30 2023
+User 1
+LOG-IN: Wed Jun 07 18:57:50 2023
+User 1
+LOG-IN: Wed Jun 07 19:01:56 2023
+User 1
+LOG-IN: Wed Jun 07 19:06:33 2023
+User 1
+LOG-IN: Wed Jun 07 19:10:28 2023
+User 1
+LOG-IN: Wed Jun 07 19:11:50 2023
+User 1
+LOG-IN: Wed Jun 07 19:13:02 2023
+User 1
+LOG-IN: Wed Jun 07 19:14:19 2023
+User 1
+LOG-IN: Wed Jun 07 19:16:11 2023
+User 1
+LOG-IN: Wed Jun 07 19:17:08 2023
+User 1
+LOG-IN: Wed Jun 07 19:17:54 2023
+User 1
+LOG-IN: Wed Jun 07 19:19:04 2023
+User 1
+LOG-IN: Wed Jun 07 19:20:03 2023
+varun	18	101	F
+Sales: 3.52
+LOG-OUT: Wed Jun 07 19:22:27 2023
+
+User 1
+LOG-IN: Wed Jun 07 19:23:29 2023
+User 1
+LOG-IN: Wed Jun 07 22:02:38 2023
+User 1
+LOG-IN: Wed Jun 07 22:06:55 2023
+User 1
+LOG-IN: Wed Jun 07 23:23:48 2023
+User 1
+LOG-IN: Thu Jun 08 00:10:34 2023
+User 1
+LOG-IN: Thu Jun 08 00:18:57 2023
+adsfa	23	102	F
+User 1
+LOG-IN: Thu Jun 08 00:27:59 2023
+User 1
+LOG-IN: Thu Jun 08 00:29:23 2023
+User 1
+LOG-IN: Thu Jun 08 00:30:31 2023
+User 1
+LOG-IN: Thu Jun 08 00:31:45 2023
+User 1
+LOG-IN: Thu Jun 08 00:34:38 2023
+User 1
+LOG-IN: Thu Jun 08 00:40:21 2023
+jou	12	103	M
+User 1
+LOG-IN: Thu Jun 08 00:41:49 2023
+User 1
+LOG-IN: Thu Jun 08 00:42:15 2023
+User 1
+LOG-IN: Thu Jun 08 00:44:27 2023
+User 1
+LOG-IN: Thu Jun 08 00:46:24 2023
+User 1
+LOG-IN: Thu Jun 08 00:47:18 2023
+User 1
+LOG-IN: Thu Jun 08 00:48:40 2023
+User 1
+LOG-IN: Thu Jun 08 00:50:44 2023
+User 1
+LOG-IN: Thu Jun 08 00:52:18 2023
+User 1
+LOG-IN: Thu Jun 08 00:53:55 2023
+User 1
+LOG-IN: Thu Jun 08 00:54:30 2023
+User 1
+LOG-IN: Thu Jun 08 00:55:58 2023
+User 1
+LOG-IN: Thu Jun 08 01:01:53 2023
+User 1
+LOG-IN: Thu Jun 08 01:10:55 2023
+User 1
+LOG-IN: Thu Jun 08 01:13:35 2023
+koushal	18	104	M
+User 1
+LOG-IN: Thu Jun 08 01:16:23 2023
+koushalll	14	105	M
+User 1
+LOG-IN: Thu Jun 08 07:26:02 2023
+kalya_cheva	18	106	M
+abhiram	44	107	M
+Sales: 306.77
+LOG-OUT: Thu Jun 08 07:32:10 2023
+
+User 1
+LOG-IN: Thu Jun 08 09:17:59 2023
+Sales: 0.00
+LOG-OUT: Thu Jun 08 09:18:24 2023
+
+User 1
+LOG-IN: Thu Jun 08 09:37:31 2023
+koushal	18	108	M
+User 1
+LOG-IN: Fri Nov 03 21:54:09 2023
+User 1
+LOG-IN: Fri Nov 03 21:54:58 2023
+kakgkv	12	109	m
+
+
+User 1
+
+IN>>>kalyan 9912 101  8309223459 17/12/2023 16:30:15
+
+
+User 1
+
+OUT>>>101 17/12/2023 16:32:03 
+
+
+User 1
+
+IN>>>lahiri 1383 101  12345689 17/12/2023 17:09:59
+OUT>>>101 17/12/2023 17:10:39 
+IN>>>gaga aga 101  0 17/12/2023 17:11:06
